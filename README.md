@@ -22,5 +22,7 @@ sed -i.bk -e 's/theme = "draft"/theme = "ananke"/g' config.toml
 ## Reference
 
 https://gohugo.io/getting-started/quick-start/
+
 https://discourse.gohugo.io/t/creating-a-minimal-working-template/135
+
 https://themes.gohugo.io/
